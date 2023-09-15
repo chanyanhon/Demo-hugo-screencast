@@ -1,2 +1,2 @@
 # hugo-screencast
-this is a demo project hugo screencast site
+CI/CD pipeline with AWS CodeBuild demo with static website hosting by "hugo" package, files stored in S3. 
