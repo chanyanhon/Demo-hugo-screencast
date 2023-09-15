@@ -1,7 +1,7 @@
-![image](https://github.com/chanyanhon/hugo-screencast/assets/58969744/3a6d4f3e-9411-4505-9149-519eafb72b90)# hugo-screencast
+# hugo-screencast repo
 CI/CD pipeline with AWS CodeBuild demo with static website hosting by "hugo" package, files stored in S3. 
 
-## Website demo:
+## Website demo
 http://hugo-screencast-duke.s3-website-ap-southeast-1.amazonaws.com/
 
 ## Pipeline
