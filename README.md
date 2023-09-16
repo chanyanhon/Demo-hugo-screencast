@@ -1,4 +1,3 @@
-
 [![Python application test with AWS CodeBuild](https://codebuild.ap-southeast-1.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoiRmxEQzJXRms4TW96cXhaK3RnK21rUmlTNXJ4ZDRDR1Q0Qm9Oc3Urb0ZmUy9ORy9yVjVxVVlsYjdIYVhpd0VLUVNmaTRwYjZUZW56RWIyNVdVVVZ4bGdrPSIsIml2UGFyYW1ldGVyU3BlYyI6IjZpNnoya3lkWTA3SkVwOVciLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=main)]
 
 # hugo-screencast repo
