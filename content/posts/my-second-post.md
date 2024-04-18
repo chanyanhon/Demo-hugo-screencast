@@ -1,5 +1,5 @@
 +++
-title = 'My Second Post via Cloud9'
+title = 'Objective of Hugo-screencast repo'
 date = 2024-04-18T06:59:02Z
 draft = false
 +++
