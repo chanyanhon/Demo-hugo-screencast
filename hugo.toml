@@ -1,6 +1,6 @@
 baseURL = 'http://hugo-screencast-duke.s3-website-ap-southeast-1.amazonaws.com'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'The New Hugo Site from Milton Chan in 2024'
 theme = "ananke"
 
 [[deployment.targets]]
